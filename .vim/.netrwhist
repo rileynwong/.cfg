@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/google/src/cloud/rileywong/tfx/google3/learning/tfx/users/hiring_ml/tfx_codelab_rileywong/models/dnn'
+let g:netrw_dirhist_2='/google/src/cloud/rileywong/tfx/google3/learning/tfx/users/hiring_ml/tfx_codelab_rileywong/models/custom'
+let g:netrw_dirhist_3='/google/src/cloud/rileywong/tfx/google3/learning/tfx/users/hiring_ml/tfx_codelab_rileywong/models'
+let g:netrw_dirhist_4='/google/src/cloud/rileywong/tfx/google3/learning/tfx/users/hiring_ml/tfx_codelab_rileywong'
+let g:netrw_dirhist_5='/google/src/cloud/rileywong/tfx/google3/learning/tfx/users/hiring_ml/tfx_codelab_rileywong/models'
+let g:netrw_dirhist_6='/google/src/cloud/rileywong/tfx/google3/learning/tfx/users/hiring_ml/tfx_codelab_rileywong/models/baseline'

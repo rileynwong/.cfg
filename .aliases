@@ -1,0 +1,55 @@
+# Navigation
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+
+# Shortcuts to filepaths
+alias aliases='vim ~/.aliases; source ~/.aliases'
+alias vimrc='vim ~/.vimrc'
+
+# TFX
+alias tfx='/google/src/head/depot/google3/learning/tfx/tools/tfx.sh'
+
+# Notebook
+alias nb='/google/data/ro/teams/colab/tensorflow'
+
+# Fileutil
+alias fls='fileutil ls'
+alias fcp='fileutil cp'
+
+# Kill port 8888
+alias killport='fuser -k 8888/tcp'
+
+# Authenticate
+alias auth='gcert; prodaccess'
+
+# Edit vimrc's
+alias vimrc='vim -O ~/.vim_runtime/vimrcs/basic.vim ~/.vim_runtime/vimrcs/extended.vim ~/.vim_runtime/vimrcs/plugins_config.vim'
+
+# Tmx2
+alias tmux='tmx2'
+alias ta='tmx2 attach -t'
+alias tk='tmx2 kill-session -t'
+alias tls='tmx2 ls'
+alias trename='tmx2 rename-session -t'
+alias tnew='tmx2 new -s'
+
+# Piper 
+alias p4ls='p4 listclients'
+
+# Say 
+alias say='spd-say'
+
+# Dotfiles config alias
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
+# Git lol 
+alias gs="git status"
+alias gb="git branch"
+alias gd="git diff"
+alias gdc='git diff --cached'
+alias ga="git add"
+alias gc="git commit -m"
+alias gl="git log -n 10 --oneline"
+alias gdlc="git diff HEAD~ HEAD"  # view last commit diff
+alias gitclean='git checkout -- .'
