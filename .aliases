@@ -53,3 +53,6 @@ alias gc="git commit -m"
 alias gl="git log -n 10 --oneline"
 alias gdlc="git diff HEAD~ HEAD"  # view last commit diff
 alias gitclean='git checkout -- .'
+
+# Pbcopy over SSH
+alias pbcopy="/usr/local/bin/rpbcopy"
