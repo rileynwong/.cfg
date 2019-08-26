@@ -56,7 +56,7 @@ fi
 # PS1='[\u@\h \W] \D{%F %T}\ $ '
 # export PS1="\e[0;34m [\D{%m-%d-%y %H:%M:%S}]\e[m \e[0;32m[glinux: \u@\h | \w]\e[m \e[0;34m$ \e[m"
 
- PS1='\[\e[34m\]\D{%F %T} \[\e[32m\][glinux | \u@\h: \w] \[\e[34m\]\$ \[\e[0m\]'
+ PS1='\[\e[34m\]\D{%F %T} \[\e[32m\][glinux | \u@\h: \w] \[\e[34m\]☾  \[\e[0m\]'
 
 unset color_prompt force_color_prompt
 
