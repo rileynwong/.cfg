@@ -20,6 +20,7 @@ Should be able to just clone from this repo, but in case you have to do it from 
 
 ## shell
 - [iTerm](https://www.iterm2.com/downloads.html)
+  - [earthsong iterm theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/xfce4terminal/colorschemes/Earthsong.theme)
 - [tmux](https://github.com/tmux/tmux) (tmx2)
 - [Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
