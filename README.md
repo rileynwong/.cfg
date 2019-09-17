@@ -1,11 +1,15 @@
 # dotfiles!!!!
 
-## computer applications
+## mac applications
 - [Alfred](https://www.alfredapp.com/)
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Keyboard shortcuts for window sizes
 - [CopyClip](https://itunes.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) - Clipboard History Manager
 - [new chrome window](https://github.com/rileynwong/dotfiles-old/blob/master/chrome-new-window.scpt)
   - open in applescript editor, save as application
+
+
+## mac settings
+- [map caps lock to esc](https://stackoverflow.com/questions/127591/using-caps-lock-as-esc-in-mac-os-x/40254864#40254864)
 
 
 ## vim
@@ -16,6 +20,7 @@ Should be able to just clone from this repo, but in case you have to do it from 
 
 ## shell
 - [iTerm](https://www.iterm2.com/downloads.html)
+  - [earthsong iterm theme](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/xfce4terminal/colorschemes/Earthsong.theme)
 - [tmux](https://github.com/tmux/tmux) (tmx2)
 - [Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
