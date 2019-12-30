@@ -61,7 +61,7 @@ alias gdlc="git diff HEAD~ HEAD"  # view last commit diff
 alias gitclean='git checkout -- .'
 
 # Pbcopy over SSH
-alias pbcopy="/usr/local/bin/rpbcopy"
+# alias pbcopy="/usr/local/bin/rpbcopy"
 
 # El goog
 alias flss='fileutil ls -sharded'
