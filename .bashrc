@@ -113,3 +113,5 @@ fi
 # Source custom aliases file
 source ~/.aliases
 
+# Pretty diffs :-)
+export P4DIFF='git diff --no-index'

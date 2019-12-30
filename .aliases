@@ -2,6 +2,9 @@
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
+alias .....='cd ../../../..'
+alias ......='cd ../../../../..'
+alias .......='cd ../../../../../..'
 
 # Shortcuts to filepaths
 alias aliases='vim ~/.aliases; source ~/.aliases'
@@ -36,6 +39,7 @@ alias tnew='tmx2 new -s'
 
 # Piper 
 alias p4ls='p4 listclients'
+alias p4delete='p4 citc -d'
 
 # Say 
 alias say='spd-say'
@@ -59,3 +63,6 @@ alias pbcopy="/usr/local/bin/rpbcopy"
 
 # El goog
 alias flss='fileutil ls -sharded'
+alias fluser='fileutil --gfs_user=hiring-ml'
+alias p4ls='p4 listclients'
+

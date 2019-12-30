@@ -418,4 +418,4 @@ endif
 set colorcolumn=80
 
 " Select all text in buffer
-map <Leader>A ggVG
+noremap <Leader>a ggVG
