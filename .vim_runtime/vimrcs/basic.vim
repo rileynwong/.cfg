@@ -402,8 +402,8 @@ autocmd VimEnter * wincmd p
 
 " Google stuff
 set nocompatible
-source /usr/share/vim/google/google.vim
-Glug youcompleteme-google
+" source /usr/share/vim/google/google.vim
+" Glug youcompleteme-google
 
 " Map CMD-x to :xa
 noremap <C-x> <ESC>:xa<CR>
