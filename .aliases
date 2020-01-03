@@ -40,6 +40,11 @@ alias tnew='tmx2 new -s'
 # Piper 
 alias p4ls='p4 listclients'
 alias p4delete='p4 citc -d'
+alias p4del='p4 citc -d'
+
+# Fig
+alias hgnew='hg citc'
+alias hgdel='hg citc -d'
 
 # Say 
 alias say='spd-say'
