@@ -60,7 +60,7 @@ alias gl="git log -n 10 --oneline"
 alias gdlc="git diff HEAD~ HEAD"  # view last commit diff
 alias gitclean='git checkout -- .'
 
-# Pbcopy over SSH
+# Pbcopy over SSH - on remote
 # alias pbcopy="/usr/local/bin/rpbcopy"
 
 # El goog
