@@ -20,7 +20,7 @@ Should be able to just clone from this repo, but in case you have to do it from 
 
 ## shell
 - [iTerm](https://www.iterm2.com/downloads.html)
-  - [iTerm color schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
+  - [iTerm color schemes - sundried](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
 - [tmux](https://github.com/tmux/tmux) (tmx2)
 - [Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
