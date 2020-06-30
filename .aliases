@@ -13,12 +13,6 @@ alias ..........='cd ../../../../../../../../..'
 alias aliases='vim ~/.aliases; source ~/.aliases'
 alias vimrc='vim ~/.vimrc'
 
-# TFX
-alias tfx='/google/src/head/depot/google3/learning/tfx/tools/tfx.sh'
-
-# Notebook
-alias nb='/google/data/ro/teams/colab/tensorflow'
-
 # Fileutil
 alias fls='fileutil ls'
 alias fcp='fileutil cp'
@@ -26,30 +20,20 @@ alias fcp='fileutil cp'
 # Kill port 8888
 alias killport='fuser -k 8888/tcp'
 
-# Authenticate
-alias auth='gcert; prodaccess'
-
 # Edit vimrc's
 alias vimrc='vim -O ~/.vim_runtime/vimrcs/basic.vim ~/.vim_runtime/vimrcs/extended.vim ~/.vim_runtime/vimrcs/plugins_config.vim'
 
-# Tmx2
-alias tmux='tmx2'
-alias ta='tmx2 attach -t'
-alias tk='tmx2 kill-session -t'
-alias tls='tmx2 ls'
-alias trename='tmx2 rename-session -t'
-alias tnew='tmx2 new -s'
-
-# Piper 
-alias p4ls='p4 listclients'
-
-# Say 
-alias say='spd-say'
+# tmux
+alias ta='tmux attach -t'
+alias tk='tmux kill-session -t'
+alias tls='tmux ls'
+alias trename='tmux rename-session -t'
+alias tnew='tmux new -s'
 
 # Dotfiles config alias
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
 
-# Git lol 
+# Git 
 alias gs="git status"
 alias gb="git branch"
 alias gd="git diff"
@@ -62,3 +46,6 @@ alias gitclean='git checkout -- .'
 
 # Pbcopy over SSH - on remote
 # alias pbcopy="/usr/local/bin/rpbcopy"
+
+# Encouraging message
+alias sigh='there there you can do it :-) i believe in you'
