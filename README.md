@@ -6,6 +6,7 @@
 - [CopyClip](https://itunes.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) - Clipboard History Manager
 - [new chrome window](https://github.com/rileynwong/dotfiles-old/blob/master/chrome-new-window.scpt)
   - open in applescript editor, save as application
+- [remap cmd. and cmd/ to move left/right desktop](https://apple.stackexchange.com/questions/347239/change-keyboard-shorcut-for-switching-desktop-workspaces#:~:text=As%20you%20said%2C%20you%20can,new%20shortcut%20to%20record%20it)
 
 
 ## mac settings
