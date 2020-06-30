@@ -48,4 +48,4 @@ alias gitclean='git checkout -- .'
 # alias pbcopy="/usr/local/bin/rpbcopy"
 
 # Encouraging message
-alias sigh='there there you can do it :-) i believe in you'
+alias sigh="echo 'there there you can do it :-) i believe in you'"
