@@ -62,9 +62,3 @@ alias gitclean='git checkout -- .'
 
 # Pbcopy over SSH - on remote
 # alias pbcopy="/usr/local/bin/rpbcopy"
-
-# El goog
-alias flss='fileutil ls -sharded'
-
-# SSH
-alias glinux='gcert; ssh rileywong@rileywong.nyc.corp.google.com -L 8888:localhost:8888'
