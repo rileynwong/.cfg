@@ -23,7 +23,7 @@ Should be able to just clone from this repo, but in case you have to do it from 
 - [iTerm](https://www.iterm2.com/downloads.html)
   - [iTerm color schemes](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
   - treehouse, urple ... 
-- [tmux](https://github.com/tmux/tmux) (tmx2)
+- [tmux](https://github.com/tmux/tmux) (tmx2): `$ brew install tmux`
 - [Zsh](https://github.com/robbyrussell/oh-my-zsh/wiki/Installing-ZSH)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
