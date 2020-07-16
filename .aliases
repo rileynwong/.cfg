@@ -52,4 +52,11 @@ alias sigh="echo 'there there you can do it :-) i believe in you'"
 
 # Google
 alias ssh_cloud='ssh rileywong@rileywong.c.googlers.com'
-alias glinux='gcert; ssh -L 8888:127.0.0.1:8888 rileywong@rileywong.nyc.corp.google.com'
+# alias glinux='gcert; ssh -L 8888:127.0.0.1:8888 rileywong@rileywong.nyc.corp.google.com'
+alias glinux='gcert; ssh glinux'
+
+# Python
+alias python=python3
+
+# Trevor Fellowship SIM project
+alias sim='cd ~/conversation-modeling/; source venv/bin/activate'

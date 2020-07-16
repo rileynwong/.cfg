@@ -99,3 +99,22 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 source ~/.aliases
+
+# Add timestamp to prompt
+PROMPT='%{$fg[yellow]%}[%D{%m/%f/%y} %D{%L:%M:%S}] '$PROMPT
+
+# PATH
+export PATH=/Users/rileywong/Library/Python/3.7/bin:$PATH
+
+# Tmux on shell startup
+# if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
+#   exec tmux
+# fi
+
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/rileywong/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/rileywong/Downloads/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/rileywong/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/rileywong/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
+
