@@ -103,9 +103,6 @@ source ~/.aliases
 # Add timestamp to prompt
 PROMPT='%{$fg[yellow]%}[%D{%m/%f/%y} %D{%L:%M:%S}] '$PROMPT
 
-# PATH
-export PATH=/Users/rileywong/Library/Python/3.7/bin:$PATH
-
 # Tmux on shell startup
 # if command -v tmux &> /dev/null && [ -n "$PS1" ] && [[ ! "$TERM" =~ screen ]] && [[ ! "$TERM" =~ tmux ]] && [ -z "$TMUX" ]; then
 #   exec tmux
@@ -118,3 +115,6 @@ if [ -f '/Users/rileywong/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/U
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/rileywong/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/rileywong/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
 
+
+# Credentials
+source ~/.credentials
