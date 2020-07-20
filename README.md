@@ -16,7 +16,9 @@
 ## vim
 Should be able to just clone from this repo, but in case you have to do it from scratch:
 - [Vimrc](https://github.com/amix/vimrc)
-- [gruvbox vim color scheme](https://github.com/morhetz/gruvbox)
+- [gruvbox vim color scheme](https://github.com/morhetz/gruvbox), [install](https://github.com/morhetz/gruvbox/wiki/Installation)
+- [minimap](https://github.com/severin-lemaignan/vim-minimap)
+- [nerdtree](https://github.com/preservim/nerdtree)
 
 
 ## shell
