@@ -57,6 +57,8 @@ alias glinux='gcert; ssh glinux'
 
 # Python
 alias python=python3
+alias nb='jupyter notebook'
 
 # Trevor Fellowship SIM project
 alias sim='cd ~/conversation-modeling/; source venv/bin/activate'
+alias simauth='gcloud config set account rileywong-local; gcloud auth login'

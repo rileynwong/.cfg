@@ -232,7 +232,11 @@ call vundle#begin()
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'morhetz/gruvbox'
 Plugin 'severin-lemaignan/vim-minimap'
+Plugin 'preservim/nerdtree'
+Plugin 'nathanaelkane/vim-indent-guides'
+
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -243,3 +247,5 @@ filetype plugin indent on    " required
 let g:minimap_highlight='GruvboxPurpleSign'
 autocmd VimEnter * Minimap
 
+" Vim indent guide
+" let g:indent_guides_enable_on_vim_startup = 1
